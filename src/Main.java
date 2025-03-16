@@ -22,7 +22,7 @@
         }
 
         // Item Management
-        Item item1 = new Item("Laptop", 1200.00);
+        Item item1 = new Item("Desktop", 1200.00);
         Item item2 = new Item("Mouse", 25.00);
 
         List<Item> items = new ArrayList<>();
