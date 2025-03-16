@@ -9,7 +9,7 @@
         public class Main {
         public static void main(String[] args) {
         // User Management
-        User user1 = new User("Umar", "Umar@gmail.com");
+        User user1 = new User("Baker", "Baker@gmail.com");
         User user2 = new User("James", "James@gmail.com");
 
         List<User> users = new ArrayList<>();
